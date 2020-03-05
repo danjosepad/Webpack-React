@@ -1,8 +1,11 @@
 import React from 'react';
 import './App.css';
 
+
 function App(){
-  return <h1>Hello ReactJS</h1>
+  return <div>
+    Your new ReactJS project here
+  </div>
 }
 
 export default App
